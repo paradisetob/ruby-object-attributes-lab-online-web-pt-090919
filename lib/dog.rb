@@ -5,3 +5,5 @@ end
 fido= Dog.new
 fido.name=fido
 end
+
+class breed()

@@ -1,5 +1,7 @@
 class Dog(name)
   name=Fido
   @name
-  fido= Dog.new
-  
+end
+fido= Dog.new
+fido.name=fido
+end

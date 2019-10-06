@@ -9,3 +9,8 @@ end
 class Dog(breed)
   name= Beagle
   :@name= Beagle
+end
+snoopy = Dog.new
+snoopy.breed = "Beagle"
+end
+end

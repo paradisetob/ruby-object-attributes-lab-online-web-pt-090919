@@ -1,2 +1,4 @@
 class Dog(name)
-  name=
+  name=Fido
+  @name
+  

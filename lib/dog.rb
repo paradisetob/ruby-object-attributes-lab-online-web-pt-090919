@@ -6,4 +6,6 @@ fido= Dog.new
 fido.name=fido
 end
 
-class breed()
+class Dog(breed)
+  name= Beagle
+  @name= Beagle
